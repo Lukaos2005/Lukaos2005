@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá! Seja bem-vindo ao meu repositório!
+📌 Sobre o projeto
 
-<!--
-**Lukaos2005/Lukaos2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositório foi criado com o objetivo de armazenar meus projetos, códigos e estudos na área de programação. Aqui compartilho meu aprendizado, experimento novas ideias e desenvolvo minhas habilidades como programador.
 
-Here are some ideas to get you started:
+🎯 Objetivos
+📚 Aprender e praticar programação.
+💻 Desenvolver projetos pessoais.
+🚀 Aprimorar minhas habilidades técnicas.
+🌱 Acompanhar minha evolução como desenvolvedor.
+🛠️ Tecnologias utilizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->g
+As tecnologias utilizadas neste repositório podem incluir:
+
+HTML5
+CSS
+JavaScript
+
